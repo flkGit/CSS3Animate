@@ -1,2 +1,2 @@
 # CSS3FullBackground
-CSS3切换图片动画
+纯CSS3进行图片切换，图片动画
